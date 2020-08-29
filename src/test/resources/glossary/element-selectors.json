@@ -1,0 +1,10 @@
+{
+  "Featured Insights": "#featured-insights",
+  "Desktop Banner": "#desktop-banner",
+  "Create New Account Button": "a[data-testid='open-registration-form-button']",
+  "Registration Form": "#reg_box",
+  "First Name": "input[name='firstname']",
+  "Last Name": "input[name='lastname']",
+  "EmailID": "input[name='reg_email__']",
+  "Password": "input[name='reg_passwd__']"
+}
