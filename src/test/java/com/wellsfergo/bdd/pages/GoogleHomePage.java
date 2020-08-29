@@ -1,5 +1,6 @@
 package com.wellsfergo.bdd.pages;
 
+import net.serenitybdd.core.pages.PageObject;
 import net.thucydides.core.annotations.DefaultUrl;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
@@ -8,7 +9,7 @@ import java.util.stream.Collectors;
 
 import net.serenitybdd.core.annotations.findby.FindBy;
 
-import net.thucydides.core.pages.PageObject;
+import net.serenitybdd.core.pages.PageObject;
 
 import java.util.List;
 
